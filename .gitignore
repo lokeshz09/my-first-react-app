@@ -1,0 +1,6 @@
+# Ignore .gitignore and target folders
+src/*/.gitignore
+src/*/target/
+
+/dist
+/node_modules
